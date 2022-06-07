@@ -1,0 +1,30 @@
+{
+  "name": "wad_final_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnhTuan160301/Demo_NodeJS.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "nodeJS"
+  ],
+  "author": "Tuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnhTuan160301/Demo_NodeJS/issues"
+  },
+  "homepage": "https://github.com/AnhTuan160301/Demo_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
